@@ -182,8 +182,7 @@
   padding-top:3%;
 }
 footer{
-
-background-color:#53C240;
+  background-color:#53C240;
   clear:both;
 }
 .top-footer{
@@ -215,21 +214,21 @@ background-color:#53C240;
 }
 .footer-message{
   clear:both;
- border-top:solid 1px white;
- text-algin:center;
- padding:2%;
- color:white;
- height:60px;
- word-spacing:3px;
- margin-left:5%;
- margin-right:5%;
+  border-top:solid 1px white;
+  text-align:center;
+  padding:2%;
+  color:white;
+  height:60px;
+  word-spacing:3px;
+  margin-left:5%;
+  margin-right:5%;
 }
 .footer-message span{
- text-algin:center;
+  text-align:center;
 }
 @media only screen and (max-width: 600px) {
- .hero-body ul li a{
-   font-size:14px;
+  .hero-body ul li a{
+    font-size:14px;
   }
   .title{
     font-size:12px;
@@ -239,18 +238,18 @@ background-color:#53C240;
     display:none;
   }
   .tech-list{
-   display: inline;
-  color:black;
-  text-align:center;
+    display: inline;
+    color:black;
+    text-align:center;
   }
   .purpose-passion-section p,
   .right-path-section p,
   .facts-about-me p,
   .volunteering p{
-   font-size:14px;
+    font-size:14px;
   }
   #body{
-    width:100px;
+    width:100%;
   }
   .reach-me span{
     font-size:18px;
@@ -258,19 +257,17 @@ background-color:#53C240;
   .social-media-connect ul li a{
     font-size:25px;
   }
-.right-path-section button a{
+  .right-path-section button a{
     font-size:14px;
   }
- }
+}
 @media only screen and (max-width:800px){
   #body{
-   width:90%;
-    }
- }
+    width:90%;
+  }
+}
 @media only screen and (max-width:900px){
   #body{
-   width:80%;
-    }
+    width:80%;
+  }
 }
-  
- 
