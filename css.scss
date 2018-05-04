@@ -16,3 +16,19 @@
 .hero-body ul{
   text-align:center;
 }
+.hero-body ul li{
+  display: inline-block;
+  font-size:20px;
+}
+.hero h1,
+.hero h2,
+.hero p,
+.hero div a{
+  color:white;
+}
+.hero h1{
+  font-weight:400;
+  letter-spacing:-1px;
+  padding:1%;
+  text-align:center;
+}
