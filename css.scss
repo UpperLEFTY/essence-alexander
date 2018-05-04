@@ -32,3 +32,28 @@
   padding:1%;
   text-align:center;
 }
+.hero h2,
+.hero p{
+  font-weight:400;
+  text-align:center;
+  padding-left:10%;
+  padding-right:10%;
+}
+.hero p{
+  letter-spacing:2.5px;
+}
+.left-proof,
+.middle-proof,
+.right-proof{
+  width:20%;
+  float:left;
+}
+.left-proof{
+  background-color:lightblue;
+}
+.middle-proof{
+  background-color:lightgrey;
+}
+.right-proof{
+  background-color:grey;
+}
